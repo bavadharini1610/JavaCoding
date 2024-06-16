@@ -16,7 +16,7 @@ public class AmstrongNumber {
             System.out.println("Amstrong");
         }
         else{
-            System.out.println("Not an Amstrong");
+            System.out.println("Not an Amstrong number");
         }
     }
     public static void main(String[] args) {
